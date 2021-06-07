@@ -1,8 +1,8 @@
 {
-  "name": "testcafe",
+  "name": "testcafe-pavsenin",
   "description": "Automated browser testing for the modern web development stack.",
   "license": "MIT",
-  "version": "1.15.0-alpha.4",
+  "version": "0.0.1",
   "author": {
     "name": "Developer Express Inc.",
     "url": "https://www.devexpress.com/"
